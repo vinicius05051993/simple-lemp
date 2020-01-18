@@ -45,5 +45,5 @@ services:
     container_name: lemp-php_1
     working_dir: /var/www
     volumes:
-      - ./var/www:/var/www
+      - ./var:/var
       - ./php73/config/php.ini:/usr/local/etc/php/php.ini
