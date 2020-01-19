@@ -1,0 +1,3 @@
+[submodule "var/scania"]
+	path = var/scania
+	url = https://github.com/vinicius05051993/scania
