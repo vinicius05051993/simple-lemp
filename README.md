@@ -5,6 +5,7 @@
 * docker-compose up -d
 
 * homepage -> 127.0.0.1
+    - var/www/index.xml
 * phpmyadmin -> 127.0.0.1:8080
     - user: root
     - pw: password
