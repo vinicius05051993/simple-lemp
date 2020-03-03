@@ -4,7 +4,7 @@
 * cd simple-lemp
 * docker-compose up -d
 
-homepage -> 127.0.0.1
-phpmyadmin -> 127.0.0.1:8080
-  user: root
-  pw: password
+* homepage -> 127.0.0.1
+* phpmyadmin -> 127.0.0.1:8080
+    - user: root
+    - pw: password
